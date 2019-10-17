@@ -6,4 +6,4 @@ a command prompt Java group project for food ordering (in Greek) as a team proje
 ## Authors
 * **Athina Davari** - [AthinaDavari](https://github.com/AthinaDavari)
 * **Anna Shambel** - [AnnaShambel3](https://github.com/AnnaShambel3)
-* **Natalia Katsiapi** - [nataliaKat](https://github.com/AnnaShambel3)
+* **Natalia Katsiapi** - [nataliaKat](https://github.com/nataliaKat)
